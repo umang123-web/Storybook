@@ -59,6 +59,7 @@ Responsive & accessible interactions
 
 
 
+
 2.)  5 Features of Hugging Face Spaces
 
 1. Zero-Setup Deployment for ML Apps
@@ -108,6 +109,7 @@ Update dependencies
 Change configuration
 
 It gives you GitHub-like workflow but with instant ML deployment built in.
+
 
 
 3.) 5 Key Points About Anthropic
@@ -162,6 +164,7 @@ Interpretability
 
 Safety benchmarks
 They publish transparent research that shapes industry standards.
+
 
 
 4.) 5 Features of Microsoft Copilot Lab
